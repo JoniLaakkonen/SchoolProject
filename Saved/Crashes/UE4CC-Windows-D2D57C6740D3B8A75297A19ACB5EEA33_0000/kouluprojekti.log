@@ -1,0 +1,1524 @@
+﻿Log file open, 10/13/21 19:07:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: kouluprojekti
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273444
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/D Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:319][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:339][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.13-16.07.42:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.13-16.07.42:340][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.13-16.07.42:340][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.13-16.07.42:340][  0]LogHAL: Display: Platform has ~ 16 GB [17083650048 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.13-16.07.42:340][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.13-16.07.42:340][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Scalability.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Engine.ini]
+[2021.10.13-16.07.42:341][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Pekep2021/kouluprojekti/Saved/Config/Windows/Editor.ini]
+[2021.10.13-16.07.42:341][  0]LogInit: Computer: LAPTOP-1A9PHQ96
+[2021.10.13-16.07.42:341][  0]LogInit: User: jolaa
+[2021.10.13-16.07.42:341][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.13-16.07.42:341][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.13-16.07.42:342][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.13-16.07.42:342][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.13-16.07.42:342][  0]LogMemory: Process Physical Memory: 142.97 MB used, 142.98 MB peak
+[2021.10.13-16.07.42:342][  0]LogMemory: Process Virtual Memory: 130.65 MB used, 130.65 MB peak
+[2021.10.13-16.07.42:342][  0]LogMemory: Physical Memory: 8032.93 MB used,  8259.31 MB free, 16292.24 MB total
+[2021.10.13-16.07.42:342][  0]LogMemory: Virtual Memory: 134208984.00 MB used,  8746.21 MB free, 134217728.00 MB total
+[2021.10.13-16.07.42:346][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.13-16.07.42:381][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.13-16.07.42:381][  0]LogInit: Using OS detected language (en-US).
+[2021.10.13-16.07.42:381][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.13-16.07.42:383][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.13-16.07.42:538][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.13-16.07.42:551][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.13-16.07.42:565][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.13-16.07.42:565][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.13-16.07.42:707][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.13-16.07.42:709][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.13-16.07.42:709][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.13-16.07.42:709][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.13-16.07.42:709][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.13-16.07.42:798][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.10.13-16.07.42:798][  0]LogD3D11RHI:       5980/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.13-16.07.42:801][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.13-16.07.42:801][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.13-16.07.42:801][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.13-16.07.42:807][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.13-16.07.42:807][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.13-16.07.42:807][  0]LogWindows: EnumDisplayDevices:
+[2021.10.13-16.07.42:807][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.10.13-16.07.42:807][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.10.13-16.07.42:807][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.13-16.07.42:808][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.13-16.07.42:808][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.13-16.07.42:808][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.10.13-16.07.42:808][  0]LogD3D11RHI:   Driver Version: 457.49 (internal:27.21.14.5749, unified:457.49)
+[2021.10.13-16.07.42:808][  0]LogD3D11RHI:      Driver Date: 11-20-2020
+[2021.10.13-16.07.42:808][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.10.13-16.07.42:864][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.13-16.07.42:864][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.13-16.07.42:864][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.13-16.07.42:866][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061081).
+[2021.10.13-16.07.42:886][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.10.13-16.07.42:925][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.13-16.07.43:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.13-16.07.43:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.13-16.07.43:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.13-16.07.43:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.13-16.07.43:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.13-16.07.43:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.13-16.07.43:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.13-16.07.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.13-16.07.43:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.13-16.07.43:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.13-16.07.43:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.13-16.07.43:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.13-16.07.43:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.13-16.07.43:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.13-16.07.43:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.13-16.07.43:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.13-16.07.43:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.13-16.07.43:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.13-16.07.43:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.13-16.07.43:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.13-16.07.43:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.13-16.07.43:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.13-16.07.43:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.13-16.07.43:307][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.13-16.07.43:313][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.13-16.07.43:338][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.13-16.07.43:363][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.13-16.07.43:363][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../../Pekep2021/kouluprojekti/Intermediate/Shaders/WorkingDirectory/17032/).
+[2021.10.13-16.07.43:363][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jolaa/AppData/Local/Temp/UnrealShaderWorkingDir/9E2873354D73576607BA14A6E7B4E064/'.
+[2021.10.13-16.07.43:363][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.13-16.07.43:363][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.13-16.07.43:363][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.13-16.07.44:039][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: Loaded boot cache 0.05s 95MB C:/Users/jolaa/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jolaa/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Pekep2021/kouluprojekti/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Pekep2021/kouluprojekti/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.13-16.07.44:089][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.13-16.07.44:104][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.13-16.07.44:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.13-16.07.44:104][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.13-16.07.44:110][  0]LogDerivedDataCache: Speed tests for C:/Users/jolaa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.13-16.07.44:111][  0]LogDerivedDataCache: Display: Performance to C:/Users/jolaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1057.30MBs, RandomWriteSpeed=181.68MBs. Assigned SpeedClass 'Local'
+[2021.10.13-16.07.44:111][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jolaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.13-16.07.44:111][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.13-16.07.44:111][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.13-16.07.44:151][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.13-16.07.44:152][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.13-16.07.44:173][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.10.13-16.07.44:408][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.13-16.07.44:408][  0]LogInit: Active device profile: [000001F2834AFB00][000001F2FFC8A0C0 49] Windows
+[2021.10.13-16.07.44:408][  0]LogInit: Profiles: [000001F2834AFB00][000001F2FFC8A0C0 49] Windows, [000001F283468600][000001F2840C0240 49] WindowsNoEditor, [000001F2834AC600][000001F2840C43C0 49] WindowsServer, [000001F28346B300][000001F2840C8540 49] WindowsClient, [000001F2834AF200][000001F2840BC680 49] IOS, [000001F283469000][000001F2840CC7C0 49] iPadAir, [000001F2834ACF00][000001F2840D0900 49] iPadAir2, [000001F283424300][000001F2840DCBC0 49] IPadPro, [000001F283424400][000001F2840D8C00 49] iPadAir3, [000001F2834AEC00][000001F2840E0D80 49] iPadAir4, [000001F283427600][000001F2840E4F00 49] iPadMini2, [000001F2834AD400][000001F2843BD080 49] iPadMini3, [000001F283425500][000001F2843C1200 49] iPadMini4, [000001F2834AE400][000001F2843C5380 49] iPadMini5, [000001F283423B00][000001F2843CD640 49] iPhone6, [000001F283423C00][000001F2843C9680 49] iPodTouch6, [000001F283427100][000001F2843D5940 49] iPhone7, [000001F283427000][000001F2843D1980 49] iPodTouch7, [000001F283420B00][000001F2843D9B00 49] iPhone5S, [000001F283424B00][000001F2843DC100 49] iPhone6Plus, [000001F283422E00][000001F2843E0280 49] iPhone6S, [000001F283427D00][000001F2843E4400 49] iPhone6SPlus, [000001F283421300][000001F2843E8580 49] iPhone7Plus, [000001F283425000][000001F2843EC700 49] iPhoneSE, [000001F283422600][000001F2840D4840 49] iPhone8, [000001F283425800][000001F2843F0980 49] iPhone8Plus, [000001F283421B00][000001F2843F4AC0 49] iPhoneX, [000001F283424600][000001F2843FCC40 49] iPhoneXS, [000001F283420600][000001F2FA6AEDC0 49] iPhoneXSMax, [000001F283426800][000001F2FA6B2F40 49] iPhoneXR, [000001F283421D00][000001F2FA6B70C0 49] iPhone11, [000001F283426F00][000001F2FA6BB240 49] iPhone11Pro, [000001F283423900][000001F2FA6BF3C0 49] iPhone11ProMax, [000001F283426B00][000001F2FA6C3540 49] iPhoneSE2, [000001F283422400][000001F2FA6C76C0 49] iPhone12Mini, [000001F283425900][000001F2FA6CB840 49] iPhone12, [000001F283421C00][000001F2FA6CF9C0 49] iPhone12Pro, [000001F283426300][000001F2FA6D3B40 49] iPhone12ProMax, [000001F283421700][000001F2FA6D6140 49] iPadPro105, [000001F283425600][000001F2FA6DA2C0 49] iPadPro129, [000001F283421600][000001F2FA6DE440 49] iPadPro97, [000001F283427B00][000001F2FA6E25C0 49] iPadPro2_129, [000001F283421E00][000001F2FA6E6740 49] iPad5, [000001F283427E00][000001F2FA6EA8C0 49] iPad6, [000001F283423F00][000001F2843F8A00 49] iPad7, [000001F283424E00][000001F2FA6EEB40 49] iPad8, [000001F283420F00][000001F2FA6F2C80 49] iPadPro11, [000001F283425100][000001F2F9EB4DC0 49] iPadPro2_11, [000001F283422100][000001F2F9EBCF40 49] iPadPro3_129, [000001F283424C00][000001F2F9EC10C0 49] iPadPro4_129, [000001F283422200][000001F2F9EC5240 49] AppleTV, [000001F283425B00][000001F2F9EC93C0 49] AppleTV4K, [000001F283421200][000001F2F9ECD540 49] TVOS, [000001F283425D00][000001F2F9ED16C0 49] Mac, [000001F283420100][000001F2F9ED5840 49] MacClient, [000001F283424D00][000001F2F9ED99C0 49] MacNoEditor, [000001F283421000][000001F2F9EDDB40 49] MacServer, [000001F283424F00][000001F2F9EE0140 49] Linux, [000001F283422300][000001F2F9EE42C0 49] LinuxAArch64, [000001F283427800][000001F2F9EE8440 49] LinuxNoEditor, [000001F283420200][000001F2F9EEC5C0 49] LinuxAArch64NoEditor, [000001F283425300][000001F2F9EF0740 49] LinuxClient, [000001F283420800][000001F2F9EF48C0 49] LinuxAArch64Client, [000001F283427700][000001F2F9EF8A40 49] LinuxServer, [000001F283421900][000001F2F9EB8B80 49] LinuxAArch64Server, [000001F283424200][000001F2F9EFCCC0 49] Android, [000001F28346AC00][000001F2F9F00E00 49] Android_Low, [000001F2834E8800][000001F2F9F04F40 49] Android_Mid, [000001F28346B400][000001F2F71770C0 49] Android_High, [000001F2834E8100][000001F2F717B240 49] Android_Default, [000001F283468300][000001F2F717F3C0 49] Android_Adreno4xx, [000001F2834E9100][000001F2F7183540 49] Android_Adreno5xx_Low, [000001F28346A000][000001F2F71876C0 49] Android_Adreno5xx, [000001F2834E8D00][000001F2F718B840 49] Android_Adreno6xx, [000001F28346B100][000001F2F718F9C0 49] Android_Adreno6xx_Vulkan, [000001F2834E8C00][000001F2F7193B40 49] Android_Mali_T6xx, [000001F283469C00][000001F2F7196140 49] Android_Mali_T7xx, [000001F2834EA000][000001F2F719A2C0 49] Android_Mali_T8xx, [000001F283468B00][000001F2F719E440 49] Android_Mali_G71, [000001F2834E8B00][000001F2F71A25C0 49] Android_Mali_G72, [000001F283469B00][000001F2F71A6740 49] Android_Mali_G72_Vulkan, [000001F2834E9900][000001F2F71AA8C0 49] Android_Mali_G76, [000001F28346BE00][000001F2F71AEA40 49] Android_Mali_G76_Vulkan, [000001F2834E8700][000001F2F71B2BC0 49] Android_Mali_G77, [000001F283468C00][000001F2F71B6D40 49] Android_Mali_G77_Vulkan, [000001F2834E9200][000001F2F7172E80 49] Android_Mali_G78, [000001F283468400][000001F2F71BAFC0 49] Android_Mali_G78_Vulkan, [000001F2834E9500][000001F2F71BF100 49] Android_Mali_G710, [000001F283468500][000001F2F71C7280 49] Android_Mali_G710_Vulkan, [000001F2834E8A00][000001F2F71CB400 49] Android_Vulkan_SM5, [000001F28346B200][000001F2F769D580 49] Android_PowerVR_G6xxx, [000001F2834EAE00][000001F2F76A1700 49] Android_PowerVR_GT7xxx, [000001F283426A00][000001F2F76A5880 49] Android_PowerVR_GE8xxx, [000001F2834EA900][000001F2F76A9A00 49] Android_PowerVR_GM9xxx, [000001F283426000][000001F2F76ADB80 49] Android_PowerVR_GM9xxx_Vulkan, [000001F2834E9E00][000001F2F76B0180 49] Android_TegraK1, [000001F283424100][000001F2F76B4300 49] Android_Unknown_Vulkan, [000001F2834E8300][000001F2F76B8480 49] Lumin, [000001F283427A00][000001F2F76BC600 49] Lumin_Desktop, [000001F2834E9000][000001F2F76C0780 49] HoloLens, 
+[2021.10.13-16.07.44:549][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.13-16.07.44:549][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.13-16.07.44:549][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.13-16.07.44:549][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.13-16.07.44:549][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.13-16.07.44:566][  0]LogNetVersion: kouluprojekti 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2078320915)
+[2021.10.13-16.07.44:964][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.13-16.07.45:023][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.13-16.07.45:030][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.10.13-16.07.45:030][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.10.13-16.07.45:030][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.13-16.07.45:269][  0]LogPython: Using Python 3.7.7
+[2021.10.13-16.07.45:699][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8FC4CB9046C45DF5901BEFACDB0DE8E4 | Instance: CD701DE840A8BB5850A0C998A227D4A2 (LAPTOP-1A9PHQ96-17032).
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.13-16.07.45:828][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.45:828][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.13-16.07.45:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.13-16.07.45:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.13-16.07.45:828][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.13-16.07.45:832][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.13-16.07.46:014][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.46:014][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.46:017][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.46:019][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.46:025][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.46:030][  0]LogUProjectInfo: Found projects:
+[2021.10.13-16.07.46:152][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.13-16.07.46:192][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.13-16.07.46:213][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.13-16.07.46:213][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.13-16.07.46:315][  0]LogCollectionManager: Loaded 0 collections in 0.000509 seconds
+[2021.10.13-16.07.46:337][  0]LogFileCache: Scanning file cache for directory 'D:/Pekep2021/kouluprojekti/Saved/Collections/' took 0.00s
+[2021.10.13-16.07.46:337][  0]LogFileCache: Scanning file cache for directory 'D:/Pekep2021/kouluprojekti/Content/Developers/jolaa/Collections/' took 0.00s
+[2021.10.13-16.07.46:337][  0]LogFileCache: Scanning file cache for directory 'D:/Pekep2021/kouluprojekti/Content/Collections/' took 0.00s
+[2021.10.13-16.07.46:337][  0]LogOcInput: OculusInput pre-init called
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.13-16.07.46:536][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.13-16.07.46:536][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.13-16.07.46:536][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.46:536][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.46:536][  0]LogEngine: Initializing Engine...
+[2021.10.13-16.07.46:563][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.13-16.07.46:563][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.13-16.07.46:564][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.13-16.07.46:564][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.13-16.07.46:670][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.13-16.07.46:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.13-16.07.46:686][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.13-16.07.46:689][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.13-16.07.46:689][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.13-16.07.46:690][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.13-16.07.46:690][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.13-16.07.46:698][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.13-16.07.46:698][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.13-16.07.46:715][  0]LogAudioMixer: Display: Using Audio Device Kuulokkeet (Realtek(R) Audio)
+[2021.10.13-16.07.46:718][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.13-16.07.46:720][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.13-16.07.46:720][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.13-16.07.46:720][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.13-16.07.46:720][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.13-16.07.46:720][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.13-16.07.46:721][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.13-16.07.46:721][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.13-16.07.46:721][  0]LogInit: FAudioDevice initialized.
+[2021.10.13-16.07.46:721][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.13-16.07.46:721][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.13-16.07.46:785][  0]LogDerivedDataCache: Saved boot cache 0.06s 95MB C:/Users/jolaa/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.13-16.07.46:786][  0]LogInit: Texture streaming: Enabled
+[2021.10.13-16.07.46:796][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.13-16.07.46:800][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.13-16.07.46:800][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.13-16.07.46:804][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.13-16.07.46:829][  0]LogInit: Transaction tracking system initialized
+[2021.10.13-16.07.46:849][  0]BlueprintLog: New page: Editor Load
+[2021.10.13-16.07.46:896][  0]LocalizationService: Localization service is disabled
+[2021.10.13-16.07.46:917][  0]TimingProfiler: Initialize
+[2021.10.13-16.07.46:917][  0]TimingProfiler: OnSessionChanged
+[2021.10.13-16.07.46:917][  0]LoadingProfiler: Initialize
+[2021.10.13-16.07.46:917][  0]LoadingProfiler: OnSessionChanged
+[2021.10.13-16.07.46:917][  0]NetworkingProfiler: Initialize
+[2021.10.13-16.07.46:917][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.13-16.07.46:917][  0]MemoryProfiler: Initialize
+[2021.10.13-16.07.46:917][  0]MemoryProfiler: OnSessionChanged
+[2021.10.13-16.07.47:043][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.13-16.07.47:043][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.13-16.07.47:149][  0]LogFileCache: Scanning file cache for directory 'D:/Pekep2021/kouluprojekti/Content/' took 0.01s
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.13-16.07.47:361][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.13-16.07.47:361][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.13-16.07.47:361][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.47:361][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.13-16.07.47:361][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.13-16.07.47:364][  0]SourceControl: Source control is disabled
+[2021.10.13-16.07.47:364][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.065
+[2021.10.13-16.07.47:364][  0]Cmd: MAP LOAD FILE="../../../../../../Pekep2021/kouluprojekti/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.13-16.07.47:365][  0]LightingResults: New page: Lighting Build
+[2021.10.13-16.07.47:366][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.13-16.07.47:366][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.13-16.07.47:366][  0]MapCheck: New page: Map Check
+[2021.10.13-16.07.47:366][  0]LightingResults: New page: Lighting Build
+[2021.10.13-16.07.47:369][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.13-16.07.47:371][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.13-16.07.47:402][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.13-16.07.47:403][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.13-16.07.47:403][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.13-16.07.47:412][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.10.13-16.07.47:413][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.13-16.07.47:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.10.13-16.07.47:413][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.048
+[2021.10.13-16.07.47:415][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.116
+[2021.10.13-16.07.47:516][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.13-16.07.47:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.13-16.07.47:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.13-16.07.47:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.13-16.07.47:545][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3822 classes and 928 folders.
+[2021.10.13-16.07.47:547][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.13-16.07.47:548][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.13-16.07.47:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.13-16.07.47:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.13-16.07.47:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.10.13-16.07.47:549][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.13-16.07.47:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.13-16.07.47:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.13-16.07.47:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.13-16.07.47:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.13-16.07.47:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.13-16.07.47:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.13-16.07.47:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.13-16.07.47:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.13-16.07.47:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.13-16.07.47:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.13-16.07.47:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.13-16.07.47:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.13-16.07.47:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.13-16.07.47:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.13-16.07.47:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.13-16.07.47:553][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.13-16.07.47:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.13-16.07.47:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.13-16.07.47:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.13-16.07.47:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.13-16.07.47:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.13-16.07.47:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.13-16.07.47:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.13-16.07.47:555][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.13-16.07.47:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.13-16.07.47:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.13-16.07.47:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.13-16.07.47:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.13-16.07.47:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.13-16.07.47:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.13-16.07.47:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.13-16.07.47:557][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.13-16.07.47:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.13-16.07.47:557][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:557][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.13-16.07.47:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.13-16.07.47:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.13-16.07.47:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.13-16.07.47:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:559][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.13-16.07.47:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.13-16.07.47:559][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.13-16.07.47:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.13-16.07.47:559][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:559][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.13-16.07.47:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.13-16.07.47:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.13-16.07.47:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.13-16.07.47:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.13-16.07.47:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.10.13-16.07.47:561][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.13-16.07.47:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.13-16.07.47:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.13-16.07.47:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.13-16.07.47:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.13-16.07.47:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.13-16.07.47:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.13-16.07.47:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.13-16.07.47:563][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:563][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.13-16.07.47:563][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.13-16.07.47:563][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:563][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.13-16.07.47:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.13-16.07.47:564][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.13-16.07.47:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.13-16.07.47:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.13-16.07.47:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.13-16.07.47:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/D Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.13-16.07.47:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.13-16.07.47:616][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.13-16.07.47:617][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.13-16.07.47:690][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.13-16.07.47:691][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.13-16.07.47:693][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.13-16.07.47:779][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.10.13-16.07.47:888][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.13-16.07.47:888][  0]LogLoad: (Engine Initialization) Total time: 6.59 seconds
+[2021.10.13-16.07.47:888][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.13-16.07.47:939][  0]LogAssetRegistry: Asset discovery search completed in 3.7679 seconds
+[2021.10.13-16.07.47:945][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.10.13-16.07.47:950][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.13-16.07.56:564][510]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.13-16.07.56:576][510]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.13-16.08.01:248][791]LogContentBrowser: Attempting asset rename: NewFolder -> redhatman
+[2021.10.13-16.08.01:248][791]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.13-16.08.04:849][  5]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.13-16.08.04:884][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/redhatman/Dead" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Dead.uasset" SILENT=true
+[2021.10.13-16.08.04:892][  5]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/DeadDDDE4DAD4F0C9AFB38543EA8B3AA9E8F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Dead.uasset'
+[2021.10.13-16.08.04:892][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/Dead" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/Dead.uasset" SILENT=true
+[2021.10.13-16.08.04:893][  5]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/DeadFB4C8A564A4080BBAC3C43B20F1770C5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/Dead.uasset'
+[2021.10.13-16.08.04:920][  5]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-16.08.04:920][  5]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/redhatman/Dead.Dead
+[2021.10.13-16.08.04:920][  5]LogContentValidation: Display: Validating ObjectRedirector /Game/content/Flipbooks/Dead.Dead
+[2021.10.13-16.08.06:918][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/redhatman/Hurt" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Hurt.uasset" SILENT=true
+[2021.10.13-16.08.06:921][122]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Hurt2094DB834F56046D1EA838AAA21FD7E5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Hurt.uasset'
+[2021.10.13-16.08.06:922][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/Hurt" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/Hurt.uasset" SILENT=true
+[2021.10.13-16.08.06:925][122]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Hurt64107DF942BBE8AB77754B86E53F2896.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/Hurt.uasset'
+[2021.10.13-16.08.06:957][122]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-16.08.06:957][122]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/redhatman/Hurt.Hurt
+[2021.10.13-16.08.06:957][122]LogContentValidation: Display: Validating ObjectRedirector /Game/content/Flipbooks/Hurt.Hurt
+[2021.10.13-16.08.08:633][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/redhatman/Idleredhatman" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Idleredhatman.uasset" SILENT=true
+[2021.10.13-16.08.08:636][218]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Idleredhatman100C5B6B4907B89619E290B26703E7A9.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Idleredhatman.uasset'
+[2021.10.13-16.08.08:676][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.10.13-16.08.08:691][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.13-16.08.08:696][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.10.13-16.08.08:718][218]AssetCheck: New page: Asset Save: Idleredhatman
+[2021.10.13-16.08.08:718][218]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/redhatman/Idleredhatman.Idleredhatman
+[2021.10.13-16.08.10:467][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/redhatman/Jump" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Jump.uasset" SILENT=true
+[2021.10.13-16.08.10:470][319]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Jump051E46A040620C6FFFDD729DEA732AB1.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Jump.uasset'
+[2021.10.13-16.08.10:516][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.13-16.08.10:526][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.13-16.08.10:529][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.10.13-16.08.10:551][319]AssetCheck: New page: Asset Save: Jump
+[2021.10.13-16.08.10:551][319]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/redhatman/Jump.Jump
+[2021.10.13-16.08.12:573][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/redhatman/Run" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Run.uasset" SILENT=true
+[2021.10.13-16.08.12:576][437]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Run89D1163647F9578443D05382A9CD3480.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/redhatman/Run.uasset'
+[2021.10.13-16.08.12:616][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.13-16.08.12:627][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.10.13-16.08.12:633][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.10.13-16.08.12:653][437]AssetCheck: New page: Asset Save: Run
+[2021.10.13-16.08.12:653][437]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/redhatman/Run.Run
+[2021.10.13-16.08.21:874][985]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.13-16.08.21:879][985]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.13-16.08.22:872][ 45]LogContentBrowser: Attempting asset rename: NewFolder -> dead
+[2021.10.13-16.08.22:872][ 45]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.13-16.08.25:573][203]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.13-16.08.25:579][203]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.13-16.08.37:706][931]LogContentBrowser: Attempting asset rename: NewFolder -> hurt
+[2021.10.13-16.08.37:710][931]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.13-16.08.40:515][ 95]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.13-16.08.40:521][ 95]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.13-16.08.41:996][184]LogContentBrowser: Attempting asset rename: NewFolder -> slide
+[2021.10.13-16.08.41:997][184]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.13-16.14.49:869][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Blender\Temp_02092021pgrafp\Renderointi\Mushroomhero\Mushroomdead\Mushdead.png)
+[2021.10.13-16.14.49:883][735]LogTexture: Display: Building textures: Mushdead (OODLE_AutoDXT, 1024X1024)
+[2021.10.13-16.14.49:922][735]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.13-16.15.01:516][879]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Blender\Temp_02092021pgrafp\Renderointi\Mushroomhero\MushroomHurt\MushHurt.png)
+[2021.10.13-16.15.01:528][879]LogTexture: Display: Building textures: MushHurt (OODLE_AutoDXT, 1024X1024)
+[2021.10.13-16.15.01:569][879]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.13-16.15.09:258][ 94]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Blender\Temp_02092021pgrafp\Renderointi\Mushroomhero\MushroomSlide\MushSlide.png)
+[2021.10.13-16.15.09:270][ 94]LogTexture: Display: Building textures: MushSlide (OODLE_AutoDXT, 1024X1024)
+[2021.10.13-16.15.09:301][ 94]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.13-16.15.14:434][303]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.13-16.15.27:585][ 77]LogSlate: Window 'Extract sprites' being destroyed
+[2021.10.13-16.15.41:677][900]LogSlate: Window 'Extract sprites' being destroyed
+[2021.10.13-16.15.55:048][679]LogSlate: Window 'Extract sprites' being destroyed
+[2021.10.13-16.16.08:732][495]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2021.10.13-16.16.08:733][495]LogContentBrowser: Deferred new asset file creation: MushHurt1
+[2021.10.13-16.16.08:750][495]LogContentBrowser: Creating deferred item: MushHurt1
+[2021.10.13-16.16.11:303][649]LogContentBrowser: Attempting asset rename: MushHurt1 -> MushHurt1
+[2021.10.13-16.16.11:303][649]LogContentBrowser: End creating deferred item MushHurt1
+[2021.10.13-16.16.15:848][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.13-16.16.16:678][921]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.13-16.16.16:714][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.13-16.17.04:523][774]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2021.10.13-16.17.04:523][774]LogContentBrowser: Deferred new asset file creation: Mushdead1
+[2021.10.13-16.17.04:534][774]LogContentBrowser: Creating deferred item: Mushdead1
+[2021.10.13-16.17.05:837][853]LogContentBrowser: Attempting asset rename: Mushdead1 -> Mushdead1
+[2021.10.13-16.17.05:837][853]LogContentBrowser: End creating deferred item Mushdead1
+[2021.10.13-16.17.11:473][186]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2021.10.13-16.17.11:473][186]LogContentBrowser: Deferred new asset file creation: MushSlide1
+[2021.10.13-16.17.11:484][186]LogContentBrowser: Creating deferred item: MushSlide1
+[2021.10.13-16.17.12:854][269]LogContentBrowser: Attempting asset rename: MushSlide1 -> MushSlide1
+[2021.10.13-16.17.12:855][269]LogContentBrowser: End creating deferred item MushSlide1
+[2021.10.13-16.17.42:737][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/MushroomMan/MushHurt1" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/MushHurt1.uasset" SILENT=true
+[2021.10.13-16.17.42:740][ 54]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt11003FC3A40BBFCAC450CF68234C8568E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/MushHurt1.uasset'
+[2021.10.13-16.17.42:778][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.13-16.17.42:789][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.10.13-16.17.42:794][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.13-16.17.42:812][ 54]AssetCheck: New page: Asset Save: MushHurt1
+[2021.10.13-16.17.42:812][ 54]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/MushroomMan/MushHurt1.MushHurt1
+[2021.10.13-16.17.49:811][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/MushroomMan/Mushdead1" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/Mushdead1.uasset" SILENT=true
+[2021.10.13-16.17.49:813][471]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead1642C0EE1448DB7E85B145E8929BF82B0.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/Mushdead1.uasset'
+[2021.10.13-16.17.49:852][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.13-16.17.49:861][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.13-16.17.49:865][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.10.13-16.17.49:884][471]AssetCheck: New page: Asset Save: Mushdead1
+[2021.10.13-16.17.49:884][471]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/MushroomMan/Mushdead1.Mushdead1
+[2021.10.13-16.17.57:694][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Flipbooks/MushroomMan/MushSlide1" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/MushSlide1.uasset" SILENT=true
+[2021.10.13-16.17.57:697][937]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide14F965D3D486C41FBD0161DBA4E3D9A2D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Flipbooks/MushroomMan/MushSlide1.uasset'
+[2021.10.13-16.17.57:734][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.13-16.17.57:744][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.13-16.17.57:748][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.10.13-16.17.57:767][937]AssetCheck: New page: Asset Save: MushSlide1
+[2021.10.13-16.17.57:767][937]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Flipbooks/MushroomMan/MushSlide1.MushSlide1
+[2021.10.13-16.17.58:934][  7]LogEditorViewport: Clicking Background
+[2021.10.13-16.18.09:711][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.13-16.18.09:826][651]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.13-16.18.18:650][651]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.13-16.18.25:386][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.13-16.18.26:367][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.13-16.18.26:404][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.13-16.18.35:427][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.13-16.18.36:895][594]LogSlate: Window 'Save Content' being destroyed
+[2021.10.13-16.18.36:930][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Sprites/MushroomMan/dead/Mushdead" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead.uasset" SILENT=true
+[2021.10.13-16.18.36:952][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushdeadCE3F1CB54E8A81D3CD530DB44F215E97.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead.uasset'
+[2021.10.13-16.18.36:961][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Textres/MushroomMan/dead/Mushdead" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead.uasset" SILENT=true
+[2021.10.13-16.18.36:984][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead0E8011844A2C9CAA4A3911927A62CC07.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead.uasset'
+[2021.10.13-16.18.36:999][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_049A84400481086E84A0EFC8E826CD225.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_0.uasset'
+[2021.10.13-16.18.37:008][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_0CF30CB0E41EAE634540792B787145474.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_0.uasset'
+[2021.10.13-16.18.37:018][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_11E843AAE443737087DB49FB966713495.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_1.uasset'
+[2021.10.13-16.18.37:032][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_1F89F298D4C620FFF52376F94650800E4.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_1.uasset'
+[2021.10.13-16.18.37:041][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_10834E7DF54D4370BE9987B4AEFC40EE07.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_10.uasset'
+[2021.10.13-16.18.37:050][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_106990113F4079BAD19B88968C792E269F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_10.uasset'
+[2021.10.13-16.18.37:058][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_11DE02E584424AE129B7BB14BC5E8582E7.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_11.uasset'
+[2021.10.13-16.18.37:066][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_11BAA486744E102F8A285F2E9A050846A7.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_11.uasset'
+[2021.10.13-16.18.37:075][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_12CD06456747B23DC25C7F47B33BBFA4E5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_12.uasset'
+[2021.10.13-16.18.37:083][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_12495C064847C77B8BDFF977A51AE3789A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_12.uasset'
+[2021.10.13-16.18.37:091][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_13ECEE2FD94E7CDFB86C4AE080211D6496.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_13.uasset'
+[2021.10.13-16.18.37:098][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_132B78D1E6495D5D8CFAAB9A852A5134B5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_13.uasset'
+[2021.10.13-16.18.37:106][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_148F97BC98497251E4281209B233488D11.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_14.uasset'
+[2021.10.13-16.18.37:114][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_140FB85E324120F87D59F0DD92E54047CA.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_14.uasset'
+[2021.10.13-16.18.37:121][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_154202585E4E36E9FF538F68AFAB5ACA25.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_15.uasset'
+[2021.10.13-16.18.37:130][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_1574EBBC62402CC578F830D5A62767C35C.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_15.uasset'
+[2021.10.13-16.18.37:139][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_2EB4EDA354D49D74DA48E8792B783DC40.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_2.uasset'
+[2021.10.13-16.18.37:149][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_2059BC9FC4D1D55B05ECD97AE638F8B6F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_2.uasset'
+[2021.10.13-16.18.37:157][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_310229C744CCE75C9C0EB92B0FED17EB1.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_3.uasset'
+[2021.10.13-16.18.37:166][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_30352F5974926988AB7BFD79C014C27BC.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_3.uasset'
+[2021.10.13-16.18.37:174][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_40FB1DB214CB584BF5F16A7A25828AF01.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_4.uasset'
+[2021.10.13-16.18.37:183][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_4B76085C34F6F3768996E65B084441048.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_4.uasset'
+[2021.10.13-16.18.37:191][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_515DF8DC2416B6FE47D0E1AB65DACB9C4.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_5.uasset'
+[2021.10.13-16.18.37:200][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_5358F61BD46A0353D415A77A984C766EB.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_5.uasset'
+[2021.10.13-16.18.37:209][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_682FE46FB424A50A86E709D8DD02A3BBD.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_6.uasset'
+[2021.10.13-16.18.37:218][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_659F2C52B40B16012EE5FAFB4E4B883BB.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_6.uasset'
+[2021.10.13-16.18.37:226][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_7DB617A4D49BC17CA250D7FA6E73650A1.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_7.uasset'
+[2021.10.13-16.18.37:235][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_7CF31B7A8426B35B11C74579765FFFC8A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_7.uasset'
+[2021.10.13-16.18.37:244][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_8849926F24E77C8E1E311BE8A04BB9D7F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_8.uasset'
+[2021.10.13-16.18.37:253][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_8B54F5434465C2902F20C72A4C2EFEBBB.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_8.uasset'
+[2021.10.13-16.18.37:261][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_9CBBA1BBB46351E79C84D4DA28FE1B26D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/dead/Mushdead_Sprite_9.uasset'
+[2021.10.13-16.18.37:270][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Mushdead_Sprite_9C697AE64468662223CB5FF9706FC862D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/dead/Mushdead_Sprite_9.uasset'
+[2021.10.13-16.18.37:273][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Textres/MushroomMan/hurt/MushHurt" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt.uasset" SILENT=true
+[2021.10.13-16.18.37:295][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt2161C2A346BD1C68235D2FA53DC8F0DF.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt.uasset'
+[2021.10.13-16.18.37:299][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Sprites/MushroomMan/hurt/MushHurt" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt.uasset" SILENT=true
+[2021.10.13-16.18.37:319][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurtCAEC15134651F65B810AFD8D8ABECB4A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt.uasset'
+[2021.10.13-16.18.37:325][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Sprites/MushroomMan/hurt/MushHurt1" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt1.uasset" SILENT=true
+[2021.10.13-16.18.37:329][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt181946C724593DB034F81A682C0A08D1F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt1.uasset'
+[2021.10.13-16.18.37:338][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_03E8366D14F73A492D9E3AEAFB07387B8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_0.uasset'
+[2021.10.13-16.18.37:346][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_028C22FB64C7004BC83F68588A50D8D9E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_0.uasset'
+[2021.10.13-16.18.37:355][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_10231C6BC4DF84AE6E01076B02C53249B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_1.uasset'
+[2021.10.13-16.18.37:363][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_1F1B969DC43BEEBAF9DF41A84C8D27650.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_1.uasset'
+[2021.10.13-16.18.37:372][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_22B744A524AF6C73CA2883FB7E126F9E0.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_2.uasset'
+[2021.10.13-16.18.37:380][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_2E0E2764B42959427E933BAA4F63FB44E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_2.uasset'
+[2021.10.13-16.18.37:389][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_33CC7D9884984E960D35599BD717686CC.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_3.uasset'
+[2021.10.13-16.18.37:398][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_364015D7C4E9FE827BC27CC99A92044B8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_3.uasset'
+[2021.10.13-16.18.37:407][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_405F0DC5545C8EED008F3D6B426E53782.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_4.uasset'
+[2021.10.13-16.18.37:415][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_4A8A251514421E3E05689C595273D5041.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_4.uasset'
+[2021.10.13-16.18.37:424][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_518C1802A4F7211265F98429C73F61D78.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_5.uasset'
+[2021.10.13-16.18.37:432][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_560978D144ADE88138F06878F3B121535.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_5.uasset'
+[2021.10.13-16.18.37:440][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_6C65A523A48AF5CE026A60491C49B3844.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_6.uasset'
+[2021.10.13-16.18.37:449][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_63473504042C8C64C6044B086D5083629.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_6.uasset'
+[2021.10.13-16.18.37:457][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_74A06D7804CC0D046CD0EC7AFE3C0D9AD.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_7.uasset'
+[2021.10.13-16.18.37:466][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushHurt_Sprite_765EB8A0B49F00AE8AD36E6844113592F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/hurt/MushHurt_Sprite_7.uasset'
+[2021.10.13-16.18.37:476][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdleB2163B394C22D868CA20FF92BF52C9E9.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle.uasset'
+[2021.10.13-16.18.37:485][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_0A210F88E467737B044F182AC18A57F54.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_0.uasset'
+[2021.10.13-16.18.37:494][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_1518903754E6B9678DA2F24A1878D56F8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_1.uasset'
+[2021.10.13-16.18.37:503][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_1068DDBDE64BE99C5B20EFFAAB5B647E65.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_10.uasset'
+[2021.10.13-16.18.37:511][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_11B364934B4D2EE508FA9530A79730C474.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_11.uasset'
+[2021.10.13-16.18.37:520][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_1252FC8BCB485B92C654ED8BAB442224B8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_12.uasset'
+[2021.10.13-16.18.37:529][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_1384AA2A14470E371A4806248FB8AFC234.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_13.uasset'
+[2021.10.13-16.18.37:539][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_142FD3CE5649EF45711FB54F9A55659820.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_14.uasset'
+[2021.10.13-16.18.37:548][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_15DE9AF1574CECA350D23F91BC3538EF4B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_15.uasset'
+[2021.10.13-16.18.37:556][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_27ABF98584258279BB05E27A81C8C1512.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_2.uasset'
+[2021.10.13-16.18.37:565][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_3009C6D5C418B3BAB0400DF933E5F2E9B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_3.uasset'
+[2021.10.13-16.18.37:573][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_49F80177D4D426A8253F8D29D30BCF88E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_4.uasset'
+[2021.10.13-16.18.37:582][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_5F0B72F7C42653D00C46BB48EF40A3297.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_5.uasset'
+[2021.10.13-16.18.37:590][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_6BDC0050348801FB7E038F486B715035F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_6.uasset'
+[2021.10.13-16.18.37:599][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_78C119BF447908736053961A8A6020DF2.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_7.uasset'
+[2021.10.13-16.18.37:608][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_85722B89B45EF611F9879AAAF2507345E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_8.uasset'
+[2021.10.13-16.18.37:618][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushIdle_Sprite_9AC6E7B404DFEE98691C9F2804B0DBA82.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_9.uasset'
+[2021.10.13-16.18.37:628][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump9FE811CD41BC0E073AA163B2E8B6A5C9.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump.uasset'
+[2021.10.13-16.18.37:637][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_05EF65FCB40201A076CDE15912B18DBE1.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_0.uasset'
+[2021.10.13-16.18.37:646][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_148B25207451A72D779843091F7D32FB6.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_1.uasset'
+[2021.10.13-16.18.37:655][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_10753DFC524409B8A26402B1AD34EB0521.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_10.uasset'
+[2021.10.13-16.18.37:664][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_11D3FB13B74C63A20A1D99DFA643F098A9.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_11.uasset'
+[2021.10.13-16.18.37:672][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_12EA68F2F9499B2582D40C468B69F08B8A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_12.uasset'
+[2021.10.13-16.18.37:681][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_2CD732BE446DB5F1B8DE0EA8E060AB484.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_2.uasset'
+[2021.10.13-16.18.37:690][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_33CE713154888B81F72D2178D36E75DEC.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_3.uasset'
+[2021.10.13-16.18.37:698][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_423D36C4B425704CA41809C88B184CDAA.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_4.uasset'
+[2021.10.13-16.18.37:707][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_500D0FAC14D3858AF6CA5C4B18ACAF95A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_5.uasset'
+[2021.10.13-16.18.37:716][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_67BC3EDD5422A415761C5ABAC749CF39C.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_6.uasset'
+[2021.10.13-16.18.37:724][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_7AA59619A4B87C57E2A266AAEF2AFF291.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_7.uasset'
+[2021.10.13-16.18.37:740][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_82155E0374F22AF3F5E628D9598FDDE1F.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_8.uasset'
+[2021.10.13-16.18.37:749][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushJump_Sprite_9CE2AC5A5435D846E11CBBA942B4FBAA4.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_9.uasset'
+[2021.10.13-16.18.37:758][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun6018C40A4487B8EE635BBD83F0209AD8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun.uasset'
+[2021.10.13-16.18.37:767][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_022654A654A61EEEEA955A5AEC7C39E3B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_0.uasset'
+[2021.10.13-16.18.37:776][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_171ACD9AF4B0B8114CD3EDBBB1ACAC215.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_1.uasset'
+[2021.10.13-16.18.37:785][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_1097B088B64A4B5643BA0DAD9D1C81BEB7.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_10.uasset'
+[2021.10.13-16.18.37:793][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_11E6A6D4A74087CA698B1C2E81E88FF5E8.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_11.uasset'
+[2021.10.13-16.18.37:802][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_1233FA2F474637687A447C4B9FDAD47CE3.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_12.uasset'
+[2021.10.13-16.18.37:813][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_13F05003734E6E7949516ED6824D82EB3C.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_13.uasset'
+[2021.10.13-16.18.37:822][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_14AB67A64943FF7AE0D2A42187EBEC482A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_14.uasset'
+[2021.10.13-16.18.37:831][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_15EEA0C5B6491E7A2C6833BFBC36C4A3FE.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_15.uasset'
+[2021.10.13-16.18.37:839][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_27E0AB58A4DF1D8A61564DBAF103D86A7.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_2.uasset'
+[2021.10.13-16.18.37:848][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_36FB57557497014B40D8BC08CDAFFD2B9.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_3.uasset'
+[2021.10.13-16.18.37:857][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_4352AC0064402887324F68FBB93E8B1F4.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_4.uasset'
+[2021.10.13-16.18.37:865][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_523AEC4CF483E87F47CE28B9CB1D7D0B4.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_5.uasset'
+[2021.10.13-16.18.37:874][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_64015C36C4EF31AE684F0D797D639A7FE.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_6.uasset'
+[2021.10.13-16.18.37:882][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_7A957B6EC48A36DE8E31E109F08DD9CD2.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_7.uasset'
+[2021.10.13-16.18.37:891][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_8C1C70C1249B7977F997836BD40586549.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_8.uasset'
+[2021.10.13-16.18.37:899][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/mushRun_Sprite_989951B8040631B0F0A8E79AC5DA71132.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_9.uasset'
+[2021.10.13-16.18.37:902][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Textres/MushroomMan/slide/MushSlide" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide.uasset" SILENT=true
+[2021.10.13-16.18.37:923][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlideEEF6A8454164DDC463D2FF918C5A359B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide.uasset'
+[2021.10.13-16.18.37:927][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Sprites/MushroomMan/slide/MushSlide" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide.uasset" SILENT=true
+[2021.10.13-16.18.37:948][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide5B9B5E0549D536A436322D808FEC5C07.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide.uasset'
+[2021.10.13-16.18.37:957][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_0272581BB4E34D09575391A8585F95D1D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_0.uasset'
+[2021.10.13-16.18.37:966][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_0323B48CA4332ED0081CF748D425738F6.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_0.uasset'
+[2021.10.13-16.18.37:975][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_10CF74FEC438D3CF83D71E9B3ECFC7C8E.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_1.uasset'
+[2021.10.13-16.18.37:984][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_10E9F49174CC18FD014516B99E6EF7C84.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_1.uasset'
+[2021.10.13-16.18.37:993][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_109B9EB3694F77294494F0789036FDC531.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_10.uasset'
+[2021.10.13-16.18.38:002][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_103F51F4BD4203233B90B6809B3C80ABE5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_10.uasset'
+[2021.10.13-16.18.38:011][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_1109D3FDD24E20ED935AB7A390884931E0.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_11.uasset'
+[2021.10.13-16.18.38:019][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_12F0ABF63741759BDC8D825B96F031C600.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_12.uasset'
+[2021.10.13-16.18.38:027][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_1308A9BC944414E19B4D4976A0DC51AD82.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_13.uasset'
+[2021.10.13-16.18.38:035][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_145A08D7E340280950930DDD98838EE21B.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_14.uasset'
+[2021.10.13-16.18.38:043][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_15D038728745AA89C90735C686904723B3.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_15.uasset'
+[2021.10.13-16.18.38:052][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_2DD21A91E4E03DFC232DD7CAC4262F6CA.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_2.uasset'
+[2021.10.13-16.18.38:061][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_21112EB9C40E1DA72E41B7FA816AA8AAB.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_2.uasset'
+[2021.10.13-16.18.38:070][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_38BF3FFAA446F702D0BA87C8720B25630.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_3.uasset'
+[2021.10.13-16.18.38:079][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_3E00A7E9544F158857685529C986A3D05.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_3.uasset'
+[2021.10.13-16.18.38:089][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_47A031B6E48D0BDDF073C95A5D27354CE.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_4.uasset'
+[2021.10.13-16.18.38:098][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_41FDC0FA34676B60ECF0E14AF865D848D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_4.uasset'
+[2021.10.13-16.18.38:107][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_58BD407A44E855444D6E221B829379D90.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_5.uasset'
+[2021.10.13-16.18.38:117][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_59EDC16864DEEC459582C199F3569D19A.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_5.uasset'
+[2021.10.13-16.18.38:126][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_64079452E443036232B712A99EE245BC5.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_6.uasset'
+[2021.10.13-16.18.38:135][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_6B353BF4A4A7A7A57B91E1495798EB996.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_6.uasset'
+[2021.10.13-16.18.38:145][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_72779AD684A4ABEC607D1138D4A466F1D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_7.uasset'
+[2021.10.13-16.18.38:154][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_75B48720C44C90C9B39FC4F8C190CB709.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_7.uasset'
+[2021.10.13-16.18.38:163][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_84288816D4045E8E3BAB17F8F85B2B1FC.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_8.uasset'
+[2021.10.13-16.18.38:171][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_828455CCD46926918B929738BACE5960D.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_8.uasset'
+[2021.10.13-16.18.38:180][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_997AB8FA140EC02F76180CB9353EE5FA7.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Sprites/MushroomMan/slide/MushSlide_Sprite_9.uasset'
+[2021.10.13-16.18.38:189][594]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/MushSlide_Sprite_95A79351B439C165157CC099D5DAF2607.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Textres/MushroomMan/slide/MushSlide_Sprite_9.uasset'
+[2021.10.13-16.18.38:289][594]LogAssetEditorSubsystem: Opening Asset editor for World /Game/content/Levels/Taso1.Taso1
+[2021.10.13-16.18.38:289][594]Cmd: MAP LOAD FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Levels/Taso1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.13-16.18.38:289][594]LightingResults: New page: Lighting Build
+[2021.10.13-16.18.38:289][594]LoadErrors: New page: Loading map: Taso1.umap
+[2021.10.13-16.18.38:291][594]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.13-16.18.38:291][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.13-16.18.38:291][594]MapCheck: New page: Map Check
+[2021.10.13-16.18.38:291][594]LightingResults: New page: Lighting Build
+[2021.10.13-16.18.38:295][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.13-16.18.38:298][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.13-16.18.38:300][594]LogAudio: Display: Audio Device (ID: 1) registered with world 'Taso1'.
+[2021.10.13-16.18.38:323][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.13-16.18.38:323][594]LogAIModule: Creating AISystem for world Taso1
+[2021.10.13-16.18.38:329][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.10.13-16.18.38:333][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.13-16.18.38:333][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2021.10.13-16.18.38:333][594]LogFileHelpers: Loading map 'Taso1' took 0.044
+[2021.10.13-16.18.38:354][594]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-16.18.38:354][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_1.mushRun_Sprite_1
+[2021.10.13-16.18.38:354][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_10.mushRun_Sprite_10
+[2021.10.13-16.18.38:354][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_11.mushRun_Sprite_11
+[2021.10.13-16.18.38:354][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_12.mushRun_Sprite_12
+[2021.10.13-16.18.38:354][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_2.mushRun_Sprite_2
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_3.mushRun_Sprite_3
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating Texture2D /Game/content/Textres/MushroomMan/dead/Mushdead.Mushdead
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_4.mushRun_Sprite_4
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating Texture2D /Game/content/Textres/MushroomMan/hurt/MushHurt.MushHurt
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_5.mushRun_Sprite_5
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_6.mushRun_Sprite_6
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_7.mushRun_Sprite_7
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating Texture2D /Game/content/Textres/MushroomMan/slide/MushSlide.MushSlide
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_8.mushRun_Sprite_8
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_9.mushRun_Sprite_9
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_0.MushSlide_Sprite_0
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_1.MushSlide_Sprite_1
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_2.MushSlide_Sprite_2
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_3.MushSlide_Sprite_3
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_4.MushSlide_Sprite_4
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_5.MushSlide_Sprite_5
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_6.MushSlide_Sprite_6
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_7.MushSlide_Sprite_7
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_8.MushSlide_Sprite_8
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_9.MushSlide_Sprite_9
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/slide/MushSlide_Sprite_10.MushSlide_Sprite_10
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_0.MushHurt_Sprite_0
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_1.MushHurt_Sprite_1
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_2.MushHurt_Sprite_2
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_3.MushHurt_Sprite_3
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_4.MushHurt_Sprite_4
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_5.MushHurt_Sprite_5
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_6.MushHurt_Sprite_6
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/hurt/MushHurt_Sprite_7.MushHurt_Sprite_7
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_0.Mushdead_Sprite_0
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_1.Mushdead_Sprite_1
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_2.Mushdead_Sprite_2
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_3.Mushdead_Sprite_3
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_4.Mushdead_Sprite_4
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_5.Mushdead_Sprite_5
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_6.Mushdead_Sprite_6
+[2021.10.13-16.18.38:355][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_7.Mushdead_Sprite_7
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_8.Mushdead_Sprite_8
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_9.Mushdead_Sprite_9
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_10.Mushdead_Sprite_10
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_11.Mushdead_Sprite_11
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_12.Mushdead_Sprite_12
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_13.Mushdead_Sprite_13
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_14.Mushdead_Sprite_14
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Textres/MushroomMan/dead/Mushdead_Sprite_15.Mushdead_Sprite_15
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_0.mushRun_Sprite_0
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/MushroomRun/mushRun.mushRun
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_9.mushJump_Sprite_9
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_8.mushJump_Sprite_8
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_7.mushJump_Sprite_7
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_6.mushJump_Sprite_6
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_5.mushJump_Sprite_5
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_4.mushJump_Sprite_4
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_3.mushJump_Sprite_3
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_2.mushJump_Sprite_2
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_12.mushJump_Sprite_12
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_11.mushJump_Sprite_11
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_10.mushJump_Sprite_10
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_1.mushJump_Sprite_1
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_0.mushJump_Sprite_0
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/MushroomJump/mushJump.mushJump
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/dead/Mushdead.Mushdead
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/hurt/MushHurt.MushHurt
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/slide/MushSlide.MushSlide
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_0.MushSlide_Sprite_0
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_1.MushSlide_Sprite_1
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_2.MushSlide_Sprite_2
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_3.MushSlide_Sprite_3
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_4.MushSlide_Sprite_4
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_5.MushSlide_Sprite_5
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_6.MushSlide_Sprite_6
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_7.MushSlide_Sprite_7
+[2021.10.13-16.18.38:356][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_8.MushSlide_Sprite_8
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_9.MushSlide_Sprite_9
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_10.MushSlide_Sprite_10
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_11.MushSlide_Sprite_11
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_12.MushSlide_Sprite_12
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_13.MushSlide_Sprite_13
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_14.MushSlide_Sprite_14
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/slide/MushSlide_Sprite_15.MushSlide_Sprite_15
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_0.MushHurt_Sprite_0
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_1.MushHurt_Sprite_1
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_2.MushHurt_Sprite_2
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_3.MushHurt_Sprite_3
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_4.MushHurt_Sprite_4
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_5.MushHurt_Sprite_5
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_6.MushHurt_Sprite_6
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/hurt/MushHurt_Sprite_7.MushHurt_Sprite_7
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_0.Mushdead_Sprite_0
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_1.Mushdead_Sprite_1
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_2.Mushdead_Sprite_2
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_3.Mushdead_Sprite_3
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_4.Mushdead_Sprite_4
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_5.Mushdead_Sprite_5
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_6.Mushdead_Sprite_6
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_7.Mushdead_Sprite_7
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_8.Mushdead_Sprite_8
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_9.Mushdead_Sprite_9
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_10.Mushdead_Sprite_10
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_11.Mushdead_Sprite_11
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_12.Mushdead_Sprite_12
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_13.Mushdead_Sprite_13
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_14.Mushdead_Sprite_14
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/dead/Mushdead_Sprite_15.Mushdead_Sprite_15
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperFlipbook /Game/content/Sprites/MushroomMan/hurt/MushHurt1.MushHurt1
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating Texture2D /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle.mushIdle
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_0.mushIdle_Sprite_0
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_1.mushIdle_Sprite_1
+[2021.10.13-16.18.38:357][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_10.mushIdle_Sprite_10
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_11.mushIdle_Sprite_11
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_12.mushIdle_Sprite_12
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_13.mushIdle_Sprite_13
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_14.mushIdle_Sprite_14
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_15.mushIdle_Sprite_15
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_2.mushIdle_Sprite_2
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_3.mushIdle_Sprite_3
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_4.mushIdle_Sprite_4
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_5.mushIdle_Sprite_5
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_6.mushIdle_Sprite_6
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_7.mushIdle_Sprite_7
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_8.mushIdle_Sprite_8
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/Mushroomidle/mushIdle_Sprite_9.mushIdle_Sprite_9
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_13.mushRun_Sprite_13
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_14.mushRun_Sprite_14
+[2021.10.13-16.18.38:358][594]LogContentValidation: Display: Validating PaperSprite /Game/content/Sprites/MushroomMan/MushroomRun/mushRun_Sprite_15.mushRun_Sprite_15
+[2021.10.13-16.18.40:529][722]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/content/Levels/Taso1.Taso1:PersistentLevel.Taso1
+[2021.10.13-16.18.40:674][722]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.10.13-16.18.41:430][723]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.13-16.19.07:332][272]BlueprintLog: New page: Compile Taso1
+[2021.10.13-16.19.07:369][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.10.13-16.19.07:436][272]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.13-16.19.08:040][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Levels/Taso1" FILE="../../../../../../Pekep2021/kouluprojekti/Content/content/Levels/Taso1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.13-16.19.08:057][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.13-16.19.08:085][308]LogSavePackage: Moving '../../../../../../Pekep2021/kouluprojekti/Saved/Taso1008F1B724CE672969CA7B0A3910062F2.tmp' to '../../../../../../Pekep2021/kouluprojekti/Content/content/Levels/Taso1.umap'
+[2021.10.13-16.19.08:090][308]LogFileHelpers: Saving map 'Taso1' took 0.050
+[2021.10.13-16.19.08:100][308]AssetCheck: New page: Asset Save: Taso1
+[2021.10.13-16.19.08:101][308]LogContentValidation: Display: Validating World /Game/content/Levels/Taso1.Taso1
+[2021.10.13-16.19.32:717][783]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.13-16.19.32:717][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.13-16.21.12:481][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.13-16.21.20:295][813]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.13-16.21.20:358][813]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump.mushJump
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_0.mushJump_Sprite_0
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_1.mushJump_Sprite_1
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_2.mushJump_Sprite_2
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_3.mushJump_Sprite_3
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_4.mushJump_Sprite_4
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_5.mushJump_Sprite_5
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_6.mushJump_Sprite_6
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_7.mushJump_Sprite_7
+	Asset Name: /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_8.mushJump_Sprite_8
+[2021.10.13-16.21.23:824][813]LogSlate: Window 'Message' being destroyed
+[2021.10.13-16.21.23:828][813]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/content/Textres/MushroomMan/MushroomJump/mushJump.mushJump is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/content/Textres/MushroomMan/MushroomJump/mushJump.mushJump:
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_9.mushJump_Sprite_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_8.mushJump_Sprite_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_7.mushJump_Sprite_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_6.mushJump_Sprite_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_5.mushJump_Sprite_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_4.mushJump_Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_3.mushJump_Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_2.mushJump_Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_12.mushJump_Sprite_12 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_11.mushJump_Sprite_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_10.mushJump_Sprite_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_1.mushJump_Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Textres/MushroomMan/MushroomJump/mushJump_Sprite_0.mushJump_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_9.mushJump_Sprite_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_8.mushJump_Sprite_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_7.mushJump_Sprite_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_6.mushJump_Sprite_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_5.mushJump_Sprite_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_4.mushJump_Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_3.mushJump_Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_2.mushJump_Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_12.mushJump_Sprite_12 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_11.mushJump_Sprite_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_10.mushJump_Sprite_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_1.mushJump_Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/content/Sprites/MushroomMan/MushroomJump/mushJump_Sprite_0.mushJump_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2021.10.13-16.21.23:828][813]LogObjectTools: Warning: ForceDeleteObject failed to delete mushJump, this package is now potentially corrupt
+[2021.10.13-16.21.24:005][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.10.13-16.21.24:020][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.13-16.21.24:033][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.13-16.21.24:046][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.13-16.21.24:059][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.13-16.21.24:070][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.13-16.21.24:082][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.13-16.21.24:095][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.13-16.21.24:109][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.13-16.21.24:122][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.13-16.21.24:134][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.13-16.21.24:147][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.13-16.21.24:159][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.13-16.21.24:173][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.13-16.21.24:185][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.13-16.21.24:188][813]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.13-16.21.24:262][813]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.074 s
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 					from the file system manually: 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: /Game/content/Textres/MushroomMan/MushroomJump/mushJump
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: Stack: 
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff5854a948 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff57e13179 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff5755b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff5783eade UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff57835b97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff615aa6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff615c280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6141421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6148e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61477097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61469b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff981692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff98164410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd255e7e8 USER32.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd255e229 USER32.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6149865a UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61436b09 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff578d1b9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff57e06962 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff57e05d04 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff0b142bac UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff0b142faa UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff0b1323a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff4cdaf685 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff4cec32fe UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff4cea43c6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6150cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61531b21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61538370 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6150c587 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff615aa6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff615c280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61539ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6141421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff6148e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61477097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff61469b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff981692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff98164410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd255e7e8 USER32.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd255e229 USER32.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fff9817fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c67621 UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c80fbc UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c810aa UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c840cd UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c95984 UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007ff698c9853a UE4Editor.exe!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd30f7034 KERNEL32.DLL!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: [Callstack] 0x00007fffd3482651 ntdll.dll!UnknownFunction []
+[2021.10.13-16.21.24:262][813]LogOutputDevice: Error: 
